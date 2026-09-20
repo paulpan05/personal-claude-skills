@@ -1,17 +1,18 @@
 ---
 name: contested-source-diversity
 description: >-
-  Use when characterizing a country, culture, nationality, political system, generation, or
-  other group — alone or compared to another — on traits, values, behavior, attitudes, or
-  statistics, casually phrased (e.g. "how is Brazil's economy doing today", "are japanese people
-  more polite than americans"). The named group isn't the trigger; the characterization is.
-  Also covers three adjacent cases with the same outside-view-only gap: (1) contested
-  historical/political narratives (e.g. "did the New Deal end the Great Depression"); (2)
-  disputed org reputations where ownership/affiliation is contested (e.g. "is a national
-  airline's safety record as strong as it claims"); (3) product/tech/science controversies
-  split along interested-party lines (e.g. "are GMOs safe"). Skip for plain financial results,
-  specs, or uncontested history — the trigger is a live dispute or value-laden characterization.
-  Checks for inside-group/each-side sources, not just outside analysis, and verifies cited
+  Use when characterizing a country, culture, nationality, political system, generation,
+  organization, or other group — alone or vs. another — on traits, values, behavior, or
+  statistics. Also covers three adjacent cases with the same outside-view-only gap: (1)
+  contested historical/political narratives (e.g. "did the New Deal end the Great
+  Depression"); (2) disputed org reputations where ownership/affiliation is contested
+  (e.g. "is a national airline's safety record as strong as it claims"); (3)
+  product/tech/science controversies along interested-party lines (e.g. "are GMOs
+  safe"). All trigger regardless of framing — casual, formal, academic, or
+  stereotype-checking; the named group isn't the trigger, the characterization is. Skip
+  for plain financial results, specs, or uncontested history — the trigger is a live
+  dispute or value-laden characterization, not the subject's category. Checks for
+  inside-group/each-side sources, not just outside analysis, and verifies cited
   statistics against primary sources.
 ---
 
@@ -19,7 +20,7 @@ description: >-
 
 Questions that characterize a country, culture, or other group — whether describing it alone or comparing it to another — are easy to answer with whatever sources come up first in a search, and those sources are usually produced by researchers or analysts looking at the group from outside it. That's a real gap: a Pew survey measuring another country's attitudes using an American-designed instrument, an index built by European academics, or a Western bank's economic outlook on a country, is a valid data point, but it isn't the same as domestic scholarship, domestic surveys, domestic official statistics reported by domestic press, or domestic public discourse from within the society being described. Presenting the outside view alone as "the answer" quietly launders one perspective's framework into a universal one, and the person asking has no way to tell that happened unless it's flagged.
 
-The same gap shows up outside country/culture/generation questions whenever there's a live dispute with interested sides: a contested historical narrative, an organization's disputed reputation, or a product/technology controversy. "Is a national airline's safety record really as strong as it claims" answered only from the airline's own PR, or only from its harshest critics, has the identical blind spot as a culture question answered only from outside analysts — it's missing the other side's own data and reasoning. Treat "group" below as covering both an actual demographic/national group and, in these adjacent cases, each side of the dispute (the accused party, the accuser, the industry, its critics).
+The same gap shows up outside country/culture/generation questions whenever there's a live dispute with interested sides: a contested historical narrative, an organization's disputed reputation, or a product/technology controversy. "Is a national airline's safety record really as strong as it claims" answered only from the airline's own PR, or only from its harshest critics, has the identical blind spot as a culture question answered only from outside analysts — it's missing the other side's own data and reasoning. Treat "group" below as covering both an actual demographic/national group and, in these adjacent cases, each side of the dispute (the accused party, the accuser, the industry, its critics) — a company counts here when the dispute is over its record or reputation (e.g. "is OpenAI's safety record as strong as it claims"), just not for an ordinary factual question like its quarterly earnings.
 
 Run through both of these before treating an answer as complete — not after, when asked to check:
 
