@@ -3,15 +3,15 @@ name: contested-source-diversity
 description: >-
   Use when characterizing a country, culture, nationality, political system, generation,
   organization, or other group — alone or vs. another — on traits, values, behavior, or
-  statistics. Also covers three adjacent cases with the same outside-view-only gap: (1)
-  contested historical/political narratives (e.g. "did the New Deal end the Great
-  Depression"); (2) disputed org reputations where ownership/affiliation is contested
-  (e.g. "is a national airline's safety record as strong as it claims"); (3)
-  product/tech/science controversies along interested-party lines (e.g. "are GMOs
-  safe"). All trigger regardless of framing — casual, formal, academic, or
-  stereotype-checking; the named group isn't the trigger, the characterization is. Skip
-  for plain financial results, specs, or uncontested history — the trigger is a live
-  dispute or value-laden characterization, not the subject's category. Checks for
+  statistics, in any framing: open-ended ("how is Brazil's economy doing", "how is
+  OpenAI doing"), academic, or stereotype-checking all trigger equally. Also covers
+  three adjacent cases with the same outside-view-only gap: (1) contested
+  historical/political narratives (e.g. "did the New Deal end the Great Depression");
+  (2) disputed org reputations where ownership/affiliation is contested (e.g. "is
+  Huawei's independence from the Chinese state real"); (3) product/tech/science
+  controversies along interested-party lines (e.g. "are GMOs safe"). Skip only for a
+  single named metric or spec asked directly (e.g. "what was Huawei's 2024 revenue") —
+  open-ended status questions trigger regardless of dispute. Checks for
   inside-group/each-side sources, not just outside analysis, and verifies cited
   statistics against primary sources.
 ---
