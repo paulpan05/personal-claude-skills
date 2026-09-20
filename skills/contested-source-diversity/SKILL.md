@@ -1,38 +1,18 @@
 ---
 name: contested-source-diversity
 description: >-
-  Use whenever characterizing a country, culture, nationality, political system, generation, or
-  other group — its current state, traits, values, behavior, attitudes, or statistics — whether
-  as a standalone description or a comparison against another group. Standalone examples: "how is
-  Brazil's economy doing today", "what's Japanese work culture like right now", "how are Gen Z's
-  finances looking". Comparative examples: "which country's people are more open-minded, Sweden
-  or France", "are japanese people more polite than americans or is that just a stereotype", "do
-  brits or australians have a better sense of humor", "which generation is more financially
-  responsible, boomers or millennials", "is south korea more collectivist than japan for a
-  sociology paper".
-  The specific countries or groups named are never the trigger condition — any description or
-  comparison of nationalities, cultures, generations, or political systems on a trait, value,
-  behavior, or statistic qualifies, with just one group or several. Also use for three adjacent
-  cases where the same outside-view-only gap shows up: (1) contested political or historical
-  narratives with opposing sides, e.g. "did the New Deal end the Great Depression", "was the fall
-  of the Roman Empire caused mainly by economic decline or external invasion", "did rent control
-  help or hurt renters in cities that adopted it"; (2) disputed reputations of organizations whose
-  ownership or affiliations are themselves part of the dispute, e.g. "is an industry-funded safety
-  study as reliable as an independent one", "is a national airline's safety record really as
-  strong as it claims", "is a state-owned company's environmental report independent of
-  government pressure"; (3) product, technology, or scientific controversies where the record
-  splits along the same interested-party lines, e.g. "are GMOs safe", "is nuclear power safe",
-  "is a popular supplement's health claim backed by independent research". Ordinary factual or
-  performance questions about a group,
-  company, or product — like plain financial results, specs, or uncontested history — do not
-  qualify just because the subject could theoretically be discussed with bias; the trigger is a
-  live dispute or characterization along value-laden lines, not the subject's category. Runs two
-  checks before the answer is presented as finished: that sources from inside the group or from
-  each side of the dispute are included, not only outside or one-sided analyses, and that any
-  specific statistic cited from a search result has been confirmed against its primary source.
-  Trigger this even when the question sounds casual or conversational, an offhand "how's X doing"
-  as much as a formal comparison — this is exactly the case this catches, not just formal
-  research requests.
+  Use when characterizing a country, culture, nationality, political system, generation, or
+  other group — alone or compared to another — on traits, values, behavior, attitudes, or
+  statistics, casually phrased (e.g. "how is Brazil's economy doing today", "are japanese people
+  more polite than americans"). The named group isn't the trigger; the characterization is.
+  Also covers three adjacent cases with the same outside-view-only gap: (1) contested
+  historical/political narratives (e.g. "did the New Deal end the Great Depression"); (2)
+  disputed org reputations where ownership/affiliation is contested (e.g. "is a national
+  airline's safety record as strong as it claims"); (3) product/tech/science controversies
+  split along interested-party lines (e.g. "are GMOs safe"). Skip for plain financial results,
+  specs, or uncontested history — the trigger is a live dispute or value-laden characterization.
+  Checks for inside-group/each-side sources, not just outside analysis, and verifies cited
+  statistics against primary sources.
 ---
 
 # Contested-source diversity checklist
